@@ -1,6 +1,6 @@
 FROM golang:1.10
 
-WORKDIR /go/src/github.com/Zach-Johnson/go-docker-hot-reload-example
+WORKDIR /go/src/go-docker-hot-reload
 
 COPY . .
 
